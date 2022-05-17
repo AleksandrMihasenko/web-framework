@@ -1,0 +1,25 @@
+{
+  "name": "web-framework",
+  "version": "1.0.0",
+  "description": "simple webframework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrMihasenko/web-framework.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Aleksandr Mihasenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrMihasenko/web-framework/issues"
+  },
+  "homepage": "https://github.com/AleksandrMihasenko/web-framework#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
